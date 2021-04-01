@@ -13,4 +13,4 @@ var createTargetArray = function (nums, index) {
 
 createTargetArray([0, 1, 2, 3, 4], [0, 1, 2, 2, 1]);
 
-// output : [0,4,1,3,2]
+// output: [0,4,1,3,2]
