@@ -16,4 +16,4 @@ function solution(citations) {
 
 solution([3, 0, 6, 1, 5]);
 
-// output : 3
+// output = 3;
